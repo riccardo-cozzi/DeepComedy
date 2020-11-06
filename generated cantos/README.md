@@ -1,6 +1,6 @@
-=============== README ===============
-
-Understanding generated text files:
+==================================
+Understanding generated text files
+==================================
 
 This folder contains all the generated text we collect from our models, grouped by subfolder named as 
 model params <-- {num_layers_encoder}_{num_layers_decoder}_{d_model}_{dff}_{num_heads}_{repetitions_production}_{repetitions_comedy}
