@@ -1,4 +1,4 @@
-# DeepComedy: Generating cantos in the style of the Divine Comedy by Dante Alighieri. 
+# DeepComedy: Generating cantos in Divine Comedy-style using transformers
 
 The artificial generation of poetries has been proposed several times as a way
 to demonstrate the performance of sequence-to-sequence models such as RNNs and
@@ -23,19 +23,11 @@ intervention.
   
   *rivolge a la cagion che non favelle.*
 
-
-
-
-
   *ma dimmi quei che pace a te forte,*
 
   *se troppa luce, che la gente nota,*
 
   *rimembrar dal fatto hai mano inforte!.*
-
-
-
-
 
   *ed ella: io di onde qui rinota,*
 
