@@ -1,0 +1,682 @@
+<V> a <S> cia scun'al ma <S> pré sa~e <S> gen til <S> cò re </V>
+<V> nél <S> cùi <S> co spet to <S> ven <S> lo <S> dir <S> pre sen te , </V>
+<V> in <S> ciò <S> ché <S> mi <S> re scri van <S> sù o <S> par ven te , </V>
+<V> sa lù te~in <S> LOR <S> se gno r , <S> cioè <S> a mo re . </V>
+<V> già <S> e ran <S> quà si <S> ché <S> at ter za te <S> l'o re </V>
+<V> dél <S> tèm po <S> ché <S> òn ne <S> stél la <S> n'è <S> lu cen te , </V>
+<V> quàn do <S> m'ap par ve~a mor <S> su bi ta men te , </V>
+<V> cùi~es sèn za <S> mem brar <S> mi <S> dà <S> or ro re . </V>
+<V> al le gro <S> mi <S> sem bra va~a mor <S> te nen do </V>
+<V> mè o <S> cò re~in <S> ma no , <S> e <S> ne <S> le <S> brac cia~a ve a </V>
+<V> ma dòn na~in vol ta~in <S> un <S> dràp po <S> dor men do . </V>
+<V> pòi <S> la <S> sve glia va , <S> e <S> d'e sto <S> cò re~ar den do </V>
+<V> lèi <S> pa ven to sa~u mil mén te <S> pa scea : </V>
+<V> ap près so <S> gir <S> lo <S> ne <S> ve de a <S> pian gen do . </V>
+<V> o <S> vo i <S> ché <S> per <S> la <S> vì a <S> d'a mor <S> pas sa te , </V>
+<V> at ten de te~e <S> guar da te </V>
+<V> s'el li <S> è <S> do ló re~al cu n , <S> quàn to <S> 'l <S> mio , <S> gra ve ; </V>
+<V> e <S> prè go <S> sòl <S> ch'au dir <S> mi <S> sof fe ria te , </V>
+<V> e <S> pòi~i ma gi na te </V>
+<V> s'io <S> sòn <S> d'o gni <S> tor mén to~o stà le~e <S> chia ve . </V>
+<V> a mo r , <S> nón <S> già <S> per <S> mì a <S> po ca <S> bon ta te , </V>
+<V> ma <S> per <S> S . U . A . <S> no bil ta te , </V>
+<V> mi <S> po se~in <S> vì ta <S> sì <S> dól ce~e <S> soa ve , </V>
+<V> ch'io <S> mi <S> sen tia <S> dir <S> diè tro <S> spes se <S> fia te : </V>
+<V> " deo , <S> per <S> qual <S> di gni tà te </V>
+<V> co sì <S> leg già dro <S> qué sti <S> lo <S> cò re <S> ha ve ? " </V>
+<V> or <S> ho <S> per du ta <S> tut ta <S> mì a <S> bal dan za , </V>
+<V> ché <S> si <S> mo ve a <S> d'a mo ro so <S> te so ro ; </V>
+<V> ond'io <S> po ver <S> di mo ro , </V>
+<V> in <S> guì sa <S> ché <S> di <S> dir <S> mi <S> ven <S> dot tan za . </V>
+<V> sì <S> ché <S> vo len do <S> far <S> có me <S> co ló ro </V>
+<V> ché <S> per <S> ver go gna <S> ce lan <S> LOR <S> man can za , </V>
+<V> di <S> fuòr <S> mó stro~al le gran za , </V>
+<V> e <S> dén tro <S> da <S> lo <S> cò re <S> strug go~e <S> plo ro . </V>
+<V> pian ge te , <S> a man ti , <S> pòi <S> ché <S> pian ge~a mo re , </V>
+<V> u den do <S> qual <S> ca gion <S> lùi <S> fa <S> plo ra re . </V>
+<V> a mor <S> sen te~a <S> pie tà <S> don ne <S> chia ma re , </V>
+<V> mo stran do~a mà ro <S> duol <S> per <S> li <S> òc chi <S> fo re , </V>
+<V> per ché <S> vil la na <S> mòr te~in <S> gen til <S> cò re </V>
+<V> ha <S> mì so~il <S> sù o <S> cru dè le~a do pe ra re , </V>
+<V> gua stan do <S> ciò <S> ché <S> al <S> món do <S> è <S> da <S> lau dà re </V>
+<V> in <S> gen til <S> dòn na <S> só vra <S> de <S> l'o no re . </V>
+<V> a u di te <S> quàn to~a mor <S> le <S> fe ce~or ran za , </V>
+<V> ch'io <S> 'l <S> vi di <S> la men tà re~in <S> fór ma <S> ve ra </V>
+<V> só vra <S> la <S> mòr ta~i mà gi ne~av ve nen te ; </V>
+<V> e <S> ri guar da va <S> ver <S> lo <S> ciel <S> so ven te , </V>
+<V> ó ve <S> l'al ma <S> gen til <S> già <S> lo ca ta~e ra , </V>
+<V> ché <S> dòn na <S> fu <S> di <S> sì <S> gà ia <S> sem bian za . </V>
+<V> mòr te <S> vil la na , <S> di <S> pie tà <S> ne mi ca , </V>
+<V> di <S> do lor <S> mà dre~an ti ca , </V>
+<V> giu dì cio~in con ta stà bi le <S> gra vo so , </V>
+<V> pòi <S> ché <S> hài <S> dà ta <S> ma tè ra~al <S> cor <S> do gliò so </V>
+<V> ond'io <S> và do <S> pen so so , </V>
+<V> di <S> te <S> bla smar <S> la <S> lìn gua <S> s'af fa ti ca . </V>
+<V> e <S> s'io <S> di <S> grà zia <S> ti <S> vo i <S> far <S> men di ca , </V>
+<V> con ve ne si <S> ch'eo <S> dì ca </V>
+<V> lo <S> tù o <S> fal lar <S> d'on ni <S> tòr to <S> tor to so , </V>
+<V> nón <S> pe rò <S> ch'a <S> la <S> gèn te <S> sì a <S> na sco so , </V>
+<V> ma <S> per <S> far ne <S> cruc ció so </V>
+<V> chi <S> d'a mor <S> per <S> in nàn zi <S> si <S> no tri ca . </V>
+<V> dal <S> sè co lo <S> hài <S> par tì ta <S> cor te sì a </V>
+<V> e <S> ciò <S> ch'è <S> in <S> dòn na <S> da <S> pre giar <S> ver tu te ; </V>
+<V> in <S> gà ia <S> gio ven tù te </V>
+<V> di strut ta <S> hài <S> l'a mo ro sa <S> leg gia dria . </V>
+<V> più <S> nón <S> vo i <S> di sco vrir <S> qual <S> dòn na <S> sì a </V>
+<V> ché <S> per <S> le <S> pro pie tà <S> sù e <S> ca no sciu te . </V>
+<V> chi <S> nón <S> mer ta <S> sa lù te </V>
+<V> nón <S> spe ri <S> mài <S> d'a ver <S> S . U . A . <S> com pa gnia . </V>
+<V> ca val can do <S> l'al tr'ier <S> per <S> un <S> cam mi no , </V>
+<V> pen só so <S> de <S> l'an dar <S> ché <S> mi <S> sgra dia , </V>
+<V> tro va i~a mó re~in <S> mèz zo <S> de <S> la <S> vì a </V>
+<V> in <S> à bi to <S> leg gier <S> di <S> pe re gri no . </V>
+<V> ne <S> la <S> sem biàn za <S> mi <S> pa rè a <S> me schi no , </V>
+<V> có me~a ves se <S> per dù to <S> se gno ria ; </V>
+<V> e <S> so spi ran do <S> pen só so <S> ve nia , </V>
+<V> per <S> nón <S> ve der <S> la <S> gen te , <S> a <S> cà po <S> chi no . </V>
+<V> quàn do <S> mi <S> vi de <S> mi <S> chia mò <S> per <S> no me , </V>
+<V> e <S> dis se : <S> " io <S> ve gno <S> di <S> lon ta na <S> par te , </V>
+<V> ov'e ra <S> lo <S> tù o <S> cor <S> per <S> mì o <S> vo le re ; </V>
+<V> e <S> re co lo~a <S> ser vir <S> nò vo <S> pia ce re " . </V>
+<V> al ló ra <S> pre si <S> di <S> lùi <S> sì <S> gràn <S> par te , </V>
+<V> ch'el li <S> di spar ve , <S> e <S> nón <S> m'ac cor si <S> co me . </V>
+<V> bal la ta , <S> i' <S> vo i <S> ché <S> tu <S> ri tro vi~a mo re , </V>
+<V> e <S> cón <S> lùi <S> va de~a <S> ma dòn na <S> da van te , </V>
+<V> sì <S> ché <S> la <S> scù sa <S> mia , <S> la <S> qual <S> tu <S> can te , </V>
+<V> ra gio ni <S> pòi <S> cón <S> lèi <S> lo <S> mì o <S> se gno re . </V>
+<V> tu <S> vai , <S> bal la ta , <S> sì <S> cor te se men te , </V>
+<V> ché <S> sàn za <S> com pa gnì a </V>
+<V> do vre sti~a vé re~in <S> tut te <S> par ti~ar di re ; </V>
+<V> ma <S> se <S> tu <S> vuo li~an dar <S> si cu ra men te , </V>
+<V> re tro va <S> l'a mor <S> pria , <S> ché <S> fór se </V>
+<V> nón <S> è <S> bòn <S> sàn za <S> lùi <S> gi re ; </V>
+<V> pe rò <S> ché <S> quel la <S> ché <S> ti <S> de e~au di re , </V>
+<V> sì <S> com'io <S> cre do , <S> è <S> ver <S> di <S> me~a di ra ta : </V>
+<V> se <S> tu <S> di <S> lùi <S> nón <S> fos si~ac com pa gna ta , </V>
+<V> leg ge ra mén te <S> ti <S> fa ria <S> di sno re . </V>
+<V> cón <S> dòl ze <S> so no , <S> quàn do <S> se' <S> cón <S> lui , </V>
+<V> co min cia~e ste <S> pa ro le , </V>
+<V> ap près so <S> ché <S> a ve ra i <S> chè sta <S> pie ta te : </V>
+<V> " ma don na , <S> quél li <S> ché <S> mi <S> man da~a <S> vui , </V>
+<V> quàn do <S> vi <S> piac cia , <S> vo le , </V>
+<V> séd <S> el li <S> ha <S> scu sa , <S> ché <S> la <S> m'in ten dia te . </V>
+<V> a mó re <S> è <S> qui , <S> ché <S> per <S> vo stra <S> biel ta te </V>
+<V> lo <S> fa ce , <S> có me <S> vo l , <S> vì sta <S> can gia re : </V>
+<V> dùn que <S> per ché <S> li <S> fe ce~al tra <S> guar dà re </V>
+<V> pen sa tel <S> voi , <S> da <S> ché <S> nón <S> mu tò <S> 'l <S> co re " . </V>
+<V> dil le : <S> " ma don na , <S> lo <S> sù o <S> cò re <S> è <S> stà to </V>
+<V> cón <S> sì <S> fer mà ta <S> fe de , </V>
+<V> ché <S> 'n <S> vo i <S> ser vir <S> l'ha <S> 'm pron to <S> òn ne <S> pen se ro : </V>
+<V> tò sto <S> fu <S> vo stro , <S> e <S> mài <S> nón <S> s'è <S> sma ga to " . </V>
+<V> séd <S> él la <S> nón <S> ti <S> cre de , </V>
+<V> dì <S> ché <S> do man di~a mo r , <S> ché <S> sa <S> lo <S> ve ro : </V>
+<V> ed <S> a <S> la <S> fì ne <S> fal le~u mil <S> pre ghe ro , </V>
+<V> lo <S> per do nà re <S> se <S> le <S> fòs se~a <S> no ia , </V>
+<V> ché <S> mi <S> co man di <S> per <S> més so <S> ch'eo <S> mo ia , </V>
+<V> e <S> ve dras si~u bi dir <S> bèn <S> ser vi do re . </V>
+<V> e <S> dì <S> a <S> co lùi <S> ch'è <S> d'o gni <S> pie tà <S> chia ve , </V>
+<V> a vàn te <S> ché <S> sdon nei , </V>
+<V> ché <S> le <S> sa prà <S> con tar <S> mì a <S> ra gion <S> bo na : </V>
+<V> " per <S> grà zia <S> de <S> la <S> mì a <S> nò ta <S> soa ve , </V>
+<V> re man <S> tu <S> qui <S> cón <S> lei , </V>
+<V> e <S> dél <S> tù o <S> sèr vo <S> ciò <S> ché <S> vuòi <S> ra gio na ; </V>
+<V> e <S> s'el la <S> per <S> tù o <S> prè go <S> li <S> per do na , </V>
+<V> fa <S> ché <S> li~an nun zi~un <S> bèl <S> sem biàn te <S> pa ce " . </V>
+<V> gen til <S> bal là ta <S> mia , <S> quàn do <S> ti <S> pia ce , </V>
+<V> mo vi~in <S> quél <S> pùn to <S> ché <S> tu <S> n'ag gie~o no re . </V>
+<V> tùt ti <S> li <S> mie i <S> pen ser <S> pa rlan <S> d'a mo re ; </V>
+<V> e <S> han no~in <S> LOR <S> sì <S> gràn <S> va rie ta te , </V>
+<V> ch'al tro <S> mi <S> fa <S> vo ler <S> S . U . A . <S> po te sta te , </V>
+<V> àl tro <S> fòl le <S> ra gio na~il <S> sù o <S> va lo re , </V>
+<V> àl tro <S> spe ran do <S> m'ap por ta <S> dol zo re , </V>
+<V> àl tro <S> pian ger <S> mi <S> fa <S> spes se <S> fia te ; </V>
+<V> e <S> sòl <S> s'ac cor da no~in <S> che rer <S> pie ta te , </V>
+<V> tre man do <S> di <S> pa ù ra <S> ché <S> è <S> nél <S> co re . </V>
+<V> ond'io <S> nón <S> so <S> da <S> qual <S> ma tè ra <S> pren da ; </V>
+<V> e <S> vor re i <S> di re , <S> e <S> nón <S> so <S> ch'io <S> mi <S> di ca : </V>
+<V> co sì <S> mi <S> trò vo~in <S> a mo ro sa~er ran za ! </V>
+<V> e <S> se <S> cón <S> tùt ti <S> vo i <S> fà re~ac cor dan za , </V>
+<V> con ve ne mi <S> chia mar <S> la <S> mì a <S> ne mi ca , </V>
+<V> ma dòn na <S> la <S> pie tà , <S> ché <S> mi <S> di fen da . </V>
+<V> cón <S> l'al tre <S> don ne <S> mì a <S> vì sta <S> gab ba te , </V>
+<V> e <S> nón <S> pen sa te , <S> don na , <S> ón de <S> si <S> mo va </V>
+<V> ch'io <S> vi <S> ras sem bri <S> sì <S> fi gù ra <S> nò va </V>
+<V> quàn do <S> ri guàr do <S> la <S> vo stra <S> bel ta te . </V>
+<V> se <S> lo <S> sa ve ste , <S> nón <S> pò ria <S> pie tà te </V>
+<V> te ner <S> più <S> cón tra <S> me <S> l'u sa ta <S> pro va , </V>
+<V> ché <S> a mo r , <S> quàn do <S> sì <S> près so~a <S> vo i <S> mi <S> tro va , </V>
+<V> pren de <S> bal dàn za~e <S> tàn ta <S> se cur ta te , </V>
+<V> ché <S> fe re <S> tra' <S> mie i <S> spi ri ti <S> pau ro si , </V>
+<V> e <S> quà le~an ci de , <S> e <S> qual <S> pin ge <S> di <S> fo re , </V>
+<V> sì <S> ché <S> só lo <S> re ma ne~a <S> ve der <S> vui : </V>
+<V> ond'io <S> mi <S> càn gio~in <S> fi gù ra <S> d'al trui , </V>
+<V> ma <S> nón <S> sì <S> ch'io <S> nón <S> sen ta <S> bè ne~al lo re </V>
+<V> li <S> guài <S> de <S> li <S> scac cia ti <S> tor men to si . </V>
+<V> ciò <S> ché <S> m'in con tra , <S> ne <S> la <S> mén te <S> mo re , </V>
+<V> quand'i' <S> ve gno~a <S> ve der <S> voi , <S> bèl la <S> gio ia ; </V>
+<V> e <S> quand'io <S> vi <S> sòn <S> pres so , <S> i' <S> sen to~a mó re </V>
+<V> ché <S> di ce : <S> " fug gi , <S> se <S> 'l <S> pe rir <S> t'è <S> no ia " . </V>
+<V> lo <S> vì so <S> mó stra <S> lo <S> co lor <S> dél <S> co re , </V>
+<V> che , <S> tra mor ten do , <S> o vùn que <S> pò <S> s'ap po ia ; </V>
+<V> e <S> per <S> la~ebrie tà <S> dél <S> gràn <S> tre mó re </V>
+<V> le <S> pie tre <S> par <S> ché <S> gri di n : <S> mo ia , <S> mo ia . </V>
+<V> pec cà to <S> fà ce <S> chi~al ló ra <S> mi <S> vi de , </V>
+<V> se <S> l'al ma <S> sbi got ti ta <S> nón <S> con for ta , </V>
+<V> sòl <S> di mo stran do <S> ché <S> di <S> me <S> li <S> do glia , </V>
+<V> per <S> la <S> pie tà , <S> ché <S> 'l <S> vò stro <S> gàb bo~an ci de , </V>
+<V> la <S> qual <S> si <S> crì a <S> ne <S> la <S> vì sta <S> mòr ta </V>
+<V> de <S> li~oc chi , <S> c'han no <S> di <S> LOR <S> mòr te <S> vo glia . </V>
+<V> spes se <S> fia te <S> ve gnon mi~a <S> la <S> mén te </V>
+<V> le~o scu re <S> qua li tà <S> ch'a mor <S> mi <S> do na , </V>
+<V> e <S> ven me ne <S> pie tà , <S> si <S> ché <S> so vèn te </V>
+<V> io <S> di co : <S> " las so ! , <S> av vie ne~el li~a <S> per so na ? " ; </V>
+<V> ch'a mor <S> m'as sa le <S> su bi ta na men te , </V>
+<V> sì <S> ché <S> la <S> vì ta <S> quà si <S> m'ab ban do na : </V>
+<V> cam pa mi~un <S> spìr to <S> vì vo <S> so la men te , </V>
+<V> e <S> que' <S> ri man <S> per ché <S> di <S> vo i <S> ra gio na . </V>
+<V> pò scia <S> mi <S> sfor zo , <S> ché <S> mi <S> vo glio~a ta re ; </V>
+<V> e <S> co sì <S> smor to , <S> d'on ne <S> va lor <S> vo to , </V>
+<V> ve gno~a <S> ve der vi , <S> cre den do <S> gue ri re : </V>
+<V> e <S> se~io <S> lè vo <S> li <S> òc chi <S> per <S> guar da re , </V>
+<V> nél <S> cor <S> mi <S> si <S> co min cia <S> ù no <S> tre mo to , </V>
+<V> ché <S> fa <S> de' <S> pol si <S> l'a ni ma <S> par ti re . </V>
+<V> don ne <S> ch'a ve te~in tel lèt to <S> d'a mo re , </V>
+<V> i' <S> vo' <S> cón <S> vo i <S> de <S> la <S> mì a <S> dòn na <S> di re , </V>
+<V> nón <S> per ch'io <S> cre da <S> S . U . A . <S> làu de <S> fi ni re , </V>
+<V> ma <S> ra gio nar <S> per <S> i sfo gar <S> la <S> men te . </V>
+<V> io <S> dì co <S> ché <S> pen san do~il <S> sù o <S> va lo re , </V>
+<V> a mor <S> sì <S> dól ce <S> mi <S> si <S> fa <S> sen ti re , </V>
+<V> ché <S> s'io~al ló ra <S> nón <S> per des si~ar di re , </V>
+<V> fa re i <S> par làn do~in na mo rar <S> la <S> gen te . </V>
+<V> e~io <S> nón <S> vo' <S> pa rlar <S> sì <S> al ta men te , </V>
+<V> ch'io <S> di ve nis se <S> per <S> te mèn za <S> vi le ; </V>
+<V> ma <S> trat te rò <S> dél <S> sù o <S> stà to <S> gen tì le </V>
+<V> a <S> re spèt to <S> di <S> lèi <S> leg ger men te , </V>
+<V> don ne~e <S> don zel le~a mo ro se , <S> cón <S> vui , </V>
+<V> ché <S> nón <S> è <S> cò sa <S> da <S> pa rlar ne~al trui . </V>
+<V> àn ge lo <S> cla ma~in <S> di vì no~in tel lèt to </V>
+<V> e <S> di ce : <S> " si re , <S> nél <S> món do <S> si <S> ve de </V>
+<V> ma ra vì glia <S> ne <S> l'at to <S> ché <S> pro ce de </V>
+<V> d'un'a ni ma <S> ché <S> 'n fin <S> qua <S> su <S> ri splen de " . </V>
+<V> lo <S> cie lo , <S> ché <S> nón <S> ha ve <S> àl tro <S> di fèt to </V>
+<V> ché <S> d'a ver <S> lei , <S> al <S> sù o <S> se gnor <S> la <S> chie de , </V>
+<V> e <S> cia scun <S> sàn to <S> ne <S> grì da <S> mer ze de . </V>
+<V> sò la <S> pie tà <S> no stra <S> pàr te <S> di fen de , </V>
+<V> ché <S> pa rla <S> dio , <S> ché <S> di <S> ma dòn na~in ten de : </V>
+<V> " di let ti <S> miei , <S> or <S> sof fe ri te~in <S> pà ce </V>
+<V> ché <S> vo stra <S> spè ne <S> sì a <S> quàn to <S> me <S> pia ce </V>
+<V> là <S> v'è <S> al cùn <S> ché <S> per der <S> lèi <S> s'at ten de , </V>
+<V> e <S> ché <S> di rà <S> ne <S> lo~in fer no : <S> o <S> mal <S> na ti , </V>
+<V> io <S> vi di <S> la <S> spe ràn za <S> de' <S> bea ti " . </V>
+<V> ma dòn na <S> è <S> di sia ta~in <S> sóm mo <S> cie lo : </V>
+<V> or <S> vo i <S> di <S> S . U . A . <S> vir tù <S> far vi <S> sa ve re . </V>
+<V> di co , <S> qual <S> vuol <S> gen til <S> dòn na <S> pa ré re </V>
+<V> va da <S> cón <S> lei , <S> ché <S> quàn do <S> va <S> per <S> via , </V>
+<V> git ta <S> néi <S> cor <S> vil la ni~a mó re~un <S> ge lo , </V>
+<V> per <S> ché <S> òn ne <S> LOR <S> pen sè ro~ag ghiac cia~e <S> pe re ; </V>
+<V> e <S> qual <S> sof fris se <S> di <S> sta rla~a <S> ve dé re </V>
+<V> di ver ria <S> no bil <S> co sa , <S> o <S> si <S> mor ria . </V>
+<V> e <S> quàn do <S> tro va~al cùn <S> ché <S> dé gno <S> sì a </V>
+<V> di <S> ve der <S> lei , <S> quéi <S> prò va <S> S . U . A . <S> ver tu te , </V>
+<V> ché <S> li~av vie n , <S> ciò <S> ché <S> li <S> do na , <S> in <S> sa lu te , </V>
+<V> e <S> sì <S> l'u mi lia , <S> ch'o gni~of fé sa~oblia . </V>
+<V> an cor <S> l'ha <S> Dì o <S> per <S> mag gior <S> grà zia <S> dà to </V>
+<V> ché <S> nón <S> pò <S> mal <S> fi nir <S> chi <S> l'ha <S> par la to . </V>
+<V> di ce <S> di <S> lèi~a mo r : <S> " co sa <S> mor tà le </V>
+<V> có me~es ser <S> pò <S> sì <S> a dor na~e <S> sì <S> pu ra ? " . </V>
+<V> pòi <S> la <S> re guar da , <S> e <S> fra <S> se <S> stés so <S> giu ra </V>
+<V> ché <S> Dì o <S> ne <S> 'n ten da <S> di <S> far <S> cò sa <S> no va . </V>
+<V> co lor <S> di <S> per lé <S> ha <S> qua si , <S> in <S> fór ma <S> quà le </V>
+<V> con ve ne~a <S> dòn na~a ve r , <S> nón <S> FOR <S> mi su ra : </V>
+<V> él la <S> è <S> quàn to <S> de <S> bèn <S> pò <S> far <S> na tu ra ; </V>
+<V> per <S> es sèm plo <S> di <S> lèi <S> biel tà <S> si <S> pro va . </V>
+<V> de <S> li <S> òc chi <S> suoi , <S> có me <S> ch'el la <S> li <S> mo va , </V>
+<V> e sco no <S> spir ti <S> d'a mo re~in flam ma ti , </V>
+<V> ché <S> fe ron <S> li <S> òc chi~a <S> qual <S> ché <S> al lór <S> la <S> gua ti , </V>
+<V> e <S> pas san <S> sì <S> ché <S> 'l <S> cor <S> cia scun <S> re tro va : </V>
+<V> vo i <S> le <S> ve de te~a mor <S> pìn to <S> nél <S> vi so , </V>
+<V> là <S> 've <S> nón <S> pòt e~al cùn <S> mi ra rla <S> fi so . </V>
+<V> can zo ne , <S> io <S> so <S> ché <S> tu <S> gi ra i <S> par làn do </V>
+<V> a <S> don ne~as sai , <S> quand'io <S> t'a vrò <S> a van za ta . </V>
+<V> or <S> t'am mo ni sco , <S> per ch'io <S> t'ho~al le và ta </V>
+<V> per <S> fi gliuo la <S> d'a mor <S> gió va ne~e <S> pia na , </V>
+<V> ché <S> là <S> 've <S> giu gni <S> tu <S> di che <S> pre gan do : </V>
+<V> " in se gna ter ni <S> gi r , <S> ch'io <S> sòn <S> man dà ta </V>
+<V> a <S> quel la <S> di <S> cùi <S> làu de <S> so' <S> a dor na ta " . </V>
+<V> e <S> se <S> nón <S> vuo li~an dar <S> sì <S> có me <S> va na , </V>
+<V> nón <S> re stà re <S> ó ve <S> sì a <S> gèn te <S> vil la na : </V>
+<V> in ge gna ti , <S> se <S> puoi , <S> d'es ser <S> pa lé se </V>
+<V> só lo <S> cón <S> don ne~o <S> cón <S> ò mo <S> cor te se , </V>
+<V> ché <S> ti <S> mer ran no <S> là <S> per <S> vì a <S> to sta na . </V>
+<V> tu <S> tro ve ra i~a mor <S> cón <S> és so <S> lei ; </V>
+<V> rac co man da mi~a <S> lùi <S> có me <S> tu <S> dei . </V>
+<V> a mó re~e <S> 'l <S> cor <S> gen til <S> sò no <S> ù na <S> co sa , </V>
+<V> sì <S> có me~il <S> sàg gio~in <S> sù o <S> dit tà re <S> po ne , </V>
+<V> e <S> co sì <S> es ser <S> l'un <S> sàn za <S> l'al tro <S> OSA </V>
+<V> com'al ma <S> ra zio nal <S> sàn za <S> ra gio ne . </V>
+<V> fal li <S> na tù ra <S> quand'è <S> a mo ro sa , </V>
+<V> a mor <S> per <S> sì re~e <S> 'l <S> cor <S> per <S> S . U . A . <S> ma gio ne , </V>
+<V> dén tro <S> la <S> qual <S> dor men do <S> si <S> ri po sa </V>
+<V> tal <S> vòl ta <S> po ca~e <S> tal <S> lùn ga <S> sta gio ne . </V>
+<V> biel ta te~ap pa re~in <S> sag gia <S> dòn na <S> pui , </V>
+<V> ché <S> pia ce~a <S> li <S> òc chi <S> sì , <S> ché <S> dén tro~al <S> cò re </V>
+<V> na sce~un <S> di sì o <S> de <S> la <S> cò sa <S> pia cen te ; </V>
+<V> e <S> tàn to <S> dù ra <S> ta ló ra~in <S> co stui , </V>
+<V> ché <S> fa <S> sve gliar <S> lo <S> spì ri to <S> d'a mo re . </V>
+<V> e <S> sì mil <S> fà ce~in <S> dòn na <S> ò mo <S> va len te . </V>
+<V> ne <S> li <S> òc chi <S> pòr ta <S> la <S> mì a <S> dòn na~a mo re , </V>
+<V> per <S> ché <S> si <S> fa <S> gen til <S> ciò <S> ch'el la <S> mi ra ; </V>
+<V> ov'el la <S> pas sa , <S> ogn'om <S> ver <S> lèi <S> si <S> gi ra , </V>
+<V> e <S> cùi <S> sa lù ta <S> fa <S> tre mar <S> lo <S> co re , </V>
+<V> sì <S> che , <S> bas san do~il <S> vi so , <S> tùt to <S> smo re , </V>
+<V> e <S> d'o gni <S> sù o <S> di fèt to~al lór <S> so spi ra : </V>
+<V> fug ge <S> di nàn zi~a <S> lèi <S> su pèr bia~ed <S> i ra . </V>
+<V> aiu ta te mi , <S> don ne , <S> fa rle~o no re . </V>
+<V> o gne <S> dol cez za , <S> o gne <S> pen sè ro <S> ù mi le </V>
+<V> na sce <S> nél <S> cò re~a <S> chi <S> pa rlar <S> la <S> sen te , </V>
+<V> ond'è <S> la u da to <S> chi <S> prì ma <S> la <S> vi de . </V>
+<V> quél <S> ch'el la <S> par <S> quàn do~un <S> pò co <S> sor ri de , </V>
+<V> nón <S> si <S> pò <S> di cer <S> né <S> te né re~a <S> men te , </V>
+<V> sì <S> è <S> nò vo <S> mi rà co lo~e <S> gen ti le . </V>
+<V> vo i <S> ché <S> por ta te <S> la <S> sem biàn za~u mi le , </V>
+<V> cón <S> li <S> òc chi <S> bas si , <S> mo stran do <S> do lo re , </V>
+<V> ón de <S> ve nì te <S> ché <S> 'l <S> vò stro <S> co ló re </V>
+<V> par <S> di ve nù to <S> de <S> pie tà <S> si mi le ? </V>
+<V> ve de ste <S> vo i <S> no stra <S> dòn na <S> gen tì le </V>
+<V> ba gnar <S> nél <S> vì so <S> sù o <S> di <S> piàn to~a mo re ? </V>
+<V> di tel mi , <S> don ne , <S> ché <S> 'l <S> mi <S> di ce~il <S> co re , </V>
+<V> per ch'io <S> vi <S> vég gio~an dar <S> san z'at to <S> vi le . </V>
+<V> e <S> se <S> ve nì te <S> da <S> tàn ta <S> pie ta te , </V>
+<V> piac cia vi <S> di <S> re star <S> qui <S> mé co~al quan to , </V>
+<V> e <S> qual <S> ché <S> sì a <S> di <S> lei , <S> nón <S> mi <S> ce la te . </V>
+<V> io <S> vég gio <S> li <S> òc chi <S> vo stri <S> c'han no <S> pian to , </V>
+<V> e <S> veg gio vi <S> tor nà re <S> sì <S> sfi gu ra te , </V>
+<V> ché <S> 'l <S> cor <S> mi <S> trie ma <S> di <S> ve der ne <S> tan to . </V>
+<V> se' <S> tu <S> co lùi <S> c'hai <S> trat tà to <S> so vèn te </V>
+<V> di <S> no stra <S> don na , <S> sòl <S> par làn do~a <S> nui ? </V>
+<V> tu <S> ri so mi gli~a <S> la <S> vó ce <S> bèn <S> lui , </V>
+<V> ma <S> la <S> fi gù ra <S> ne <S> par <S> d'al tra <S> gen te . </V>
+<V> e <S> per ché <S> pian gi <S> tu <S> sì <S> co ral men te , </V>
+<V> ché <S> fai <S> di <S> te <S> pie tà <S> ve nì re~al trui ? </V>
+<V> ve de stù <S> pian ger <S> lei , <S> ché <S> tu <S> nón <S> pui </V>
+<V> pùn to <S> ce lar <S> la <S> do lo ro sa <S> men te ? </V>
+<V> la scia <S> piàn ge re <S> nói~e <S> trì ste~an dà re </V>
+<V> e <S> fa <S> pec cà to <S> chi <S> mài <S> ne <S> con for ta , </V>
+<V> ché <S> nél <S> sù o <S> piàn to <S> l'u dim mo <S> par la re . </V>
+<V> el l'ha <S> nél <S> vì so <S> la <S> pie tà <S> sì <S> scor ta , </V>
+<V> ché <S> qual <S> l'a ves se <S> vo lù ta <S> mi rà re </V>
+<V> sa reb be~in nàn zi <S> lèi <S> pian gen do <S> mor ta . </V>
+<V> dòn na <S> pie to sa~e <S> di <S> no vèl la~e ta te , </V>
+<V> a dor na~as sài <S> di <S> gen ti lez ze~u ma ne , </V>
+<V> ch'e ra <S> là <S> 'v'io <S> chia ma va <S> spés so <S> mor te , </V>
+<V> veg gen do <S> li <S> òc chi <S> mie i <S> pien <S> di <S> pie ta te , </V>
+<V> e~a scol tan do <S> le <S> pa ro le <S> va ne , </V>
+<V> si <S> mos se <S> cón <S> pa ù ra~a <S> pian ger <S> for te . </V>
+<V> e~al tre <S> don ne , <S> ché <S> si <S> fuo ro~ac cor te </V>
+<V> di <S> me <S> per <S> quel la <S> ché <S> mé co <S> pian gia , </V>
+<V> fe cer <S> lèi <S> par tir <S> via , </V>
+<V> e~ap pres sar si <S> per <S> far mi <S> sen ti re . </V>
+<V> qual <S> di cea : <S> " non <S> dor mi re " , </V>
+<V> e <S> qual <S> di cea : <S> " per ché <S> sì <S> ti <S> scon for te ? " . </V>
+<V> al lór <S> las sa i <S> la <S> nò va <S> fan ta sia , </V>
+<V> chia man do~il <S> nó me <S> de <S> la <S> dòn na <S> mia . </V>
+<V> è ra <S> la <S> vó ce <S> mì a <S> sì <S> do lo ro sa </V>
+<V> e <S> rót ta <S> sì <S> da <S> l'an go scia <S> dél <S> pian to , </V>
+<V> ch'io <S> só lo~in te si~il <S> nó me <S> nél <S> mì o <S> co re ; </V>
+<V> e <S> cón <S> tut ta <S> la <S> vì sta <S> ver go gno sa </V>
+<V> ch'e ra <S> nél <S> vì so <S> mì o <S> giùn ta <S> co tan to , </V>
+<V> mi <S> fe ce <S> vèr so <S> LOR <S> vòl ge re~a mo re . </V>
+<V> el li <S> è ra <S> tà le~a <S> ve der <S> mì o <S> co lo re , </V>
+<V> ché <S> fa ce a <S> ra gio nar <S> di <S> mòr te~al trui : </V>
+<V> " de h , <S> con so liam <S> co stui " </V>
+<V> pre ga va <S> l'u na <S> l'al tra~u mi le men te ; </V>
+<V> e <S> di ce van <S> so ven te : </V>
+<V> " che <S> ve de stù , <S> ché <S> tu <S> nón <S> hài <S> va lo re ? " . </V>
+<V> e <S> quàn do~un <S> pò co <S> con for tà to <S> fui , </V>
+<V> io <S> dis si : <S> " don ne , <S> di ce rol lo~a <S> vui " . </V>
+<V> men tr'io <S> pen sa va <S> la <S> mì a <S> frà le <S> vi ta , </V>
+<V> e <S> ve de a <S> 'l <S> sù o <S> du rar <S> com'è <S> leg gie ro , </V>
+<V> pian se mi~a mor <S> nél <S> co re , <S> ó ve <S> di mo ra ; </V>
+<V> per <S> ché <S> l'a ni ma <S> mì a <S> fu <S> sì <S> smar ri ta , </V>
+<V> ché <S> so spi ran do <S> di ce a <S> nél <S> pen se ro : </V>
+<V> " ben <S> con ver rà <S> ché <S> la <S> mì a <S> dòn na <S> mo ra " . </V>
+<V> io <S> pre si <S> tàn to <S> smar ri men to~al lo ra , </V>
+<V> ch'io <S> chiu si <S> li <S> òc chi <S> vil mén te <S> gra va ti , </V>
+<V> e <S> fu ron <S> sì <S> sma ga ti </V>
+<V> li <S> spir ti <S> miei , <S> ché <S> cia scun <S> gi va~er ran do ; </V>
+<V> e <S> pò scia~i ma gi nan do , </V>
+<V> di <S> ca u no scen za~e <S> di <S> ve ri tà <S> fo ra , </V>
+<V> vi si <S> di <S> don ne <S> m'ap par ver <S> cruc cia ti , </V>
+<V> ché <S> mi <S> di ce an <S> pu r : <S> " mor ra'ti , <S> mor ra'ti " . </V>
+<V> pòi <S> vi di <S> co se <S> du bi to se <S> mol te , </V>
+<V> nél <S> và no~i ma gi nà re~ov'io~en trai ; </V>
+<V> ed <S> es ser <S> mi <S> pa rè a <S> nón <S> so~in <S> qual <S> lo co , </V>
+<V> e <S> ve der <S> don ne~an dar <S> per <S> vì a <S> di sciol te , </V>
+<V> qual <S> la gri man do , <S> e <S> qual <S> tra en do <S> guai , </V>
+<V> ché <S> di <S> tri stì zia <S> sa et ta van <S> fo co . </V>
+<V> pòi <S> mi <S> par ve <S> ve dé re~a <S> pò co~a <S> pò co </V>
+<V> tur bar <S> lo <S> só le~e~ap pa rir <S> la <S> stel la , </V>
+<V> e <S> pian ger <S> el li~ed <S> el la ; </V>
+<V> ca der <S> li~a u gel li <S> vo làn do <S> per <S> l'a re , </V>
+<V> e <S> la <S> tèr ra <S> tre ma re ; </V>
+<V> ed <S> ò mo~ap par ve <S> sco lo rì to~e <S> fio co , </V>
+<V> di cen do mi : <S> " che <S> fai ? <S> nón <S> sai <S> no vel la ? </V>
+<V> mòr ta <S> è <S> la <S> dòn na <S> tua , <S> ch'e ra <S> sì <S> bel la " . </V>
+<V> le va va <S> li <S> òc chi <S> mie i <S> ba gna ti~in <S> pian ti , </V>
+<V> e <S> ve dea , <S> ché <S> pa re an <S> piòg gia <S> di <S> man na , </V>
+<V> li~an ge li <S> ché <S> tor na van <S> sù so~in <S> cie lo , </V>
+<V> e <S> ù na <S> nu vo lét ta~a ve an <S> da van ti , </V>
+<V> do po <S> la <S> qual <S> gri da van <S> tut ti : <S> " o san na " ; </V>
+<V> e <S> s'al tro~a ves ser <S> det to , <S> a <S> vo i <S> di re'lo . </V>
+<V> al lór <S> di ce va~a mo r : <S> " più <S> nól <S> ti <S> ce lo ; </V>
+<V> vie ni~a <S> ve der <S> no stra <S> dòn na <S> ché <S> gia ce " . </V>
+<V> lo~i ma gi nar <S> fal là ce </V>
+<V> mi <S> con dus se~a <S> ve der <S> ma dòn na <S> mor ta ; </V>
+<V> e <S> quand'io <S> l'a vea <S> scor ta , </V>
+<V> ve de a <S> ché <S> don ne <S> la <S> co vrian <S> d'un <S> ve lo ; </V>
+<V> ed <S> a ve a <S> sé co~u mil tà <S> ve ra ce , </V>
+<V> ché <S> pa rè a <S> ché <S> di ces se : <S> " io <S> sò no~in <S> pa ce " . </V>
+<V> io <S> di ve nia <S> nél <S> do lor <S> sì <S> u mi le , </V>
+<V> veg gen do~in <S> lèi <S> tàn ta~u mil tà <S> for ma ta , </V>
+<V> ch'io <S> di cea : <S> " mor te , <S> as sài <S> dól ce <S> ti <S> te gno ; </V>
+<V> tu <S> déi~o mài~es ser <S> cò sa <S> gen ti le , </V>
+<V> pòi <S> ché <S> tu <S> se' <S> ne <S> la <S> mì a <S> dòn na <S> sta ta , </V>
+<V> e <S> déi~a ver <S> pie tà te~e <S> nón <S> di sde gno . </V>
+<V> ve di <S> ché <S> sì <S> de si de ró so <S> ve gno </V>
+<V> d'es ser <S> de' <S> tuoi , <S> ch'io <S> ti <S> so mi glio~in <S> fe de . </V>
+<V> vie ni , <S> ché <S> 'l <S> cor <S> te <S> chie de " . </V>
+<V> pòi <S> mi <S> par tia , <S> con su mà to~o gne <S> duo lo ; </V>
+<V> e <S> quand'io <S> è ra <S> so lo , </V>
+<V> di cea , <S> guar dan do <S> vèr so <S> l'al to <S> re gno : </V>
+<V> " bea to , <S> à ni ma <S> bèl la <S> chi <S> te <S> ve de ! " </V>
+<V> vo i <S> mi <S> chia ma ste~al lo r , <S> vo stra <S> mer ze de . </V>
+<V> io <S> mi <S> sen ti' <S> sve gliar <S> dén tro~a <S> lo <S> cò re </V>
+<V> un <S> spì ri to~a mo ró so <S> ché <S> dor mia : </V>
+<V> e <S> pòi <S> vi di <S> ve nir <S> da <S> lùn gi~a mó re </V>
+<V> al le gro <S> sì , <S> ché <S> ap pé na~il <S> co no scia , </V>
+<V> di cen do : <S> " or <S> pen sa <S> pur <S> di <S> far mi~o no re " ; </V>
+<V> e <S> 'n <S> cia scu na <S> pa rò la <S> S . U . A . <S> ri dia . </V>
+<V> e <S> pò co <S> stan do <S> mé co~il <S> mì o <S> se gno re , </V>
+<V> guar dan do~in <S> quel la <S> pàr te <S> ón de <S> ve nia , </V>
+<V> io <S> vi di <S> mòn na <S> van na~e <S> mòn na <S> BICE </V>
+<V> ve nì re~in vèr <S> lo <S> lò co <S> là <S> 'v'io~e ra , </V>
+<V> i 'u na~ap près so <S> de <S> l'al tra <S> ma ra vi glia ; </V>
+<V> e <S> sì <S> có me <S> la <S> mén te <S> mi <S> ri di ce , </V>
+<V> a mor <S> mi <S> dis se : <S> " quel l'è <S> pri ma ve ra , </V>
+<V> e <S> quel l'ha <S> nó me~a mo r , <S> sì <S> mi <S> so mi glia " . </V>
+<V> tàn to <S> gen tì le~e <S> tàn to~o ne stà <S> pà re </V>
+<V> la <S> dòn na <S> mì a <S> quand'el la~al trùi <S> sa lu ta , </V>
+<V> ch'o gne <S> lìn gua <S> de ven <S> tre man do <S> mu ta , </V>
+<V> e <S> li <S> òc chi <S> no <S> l'ar di scon <S> di <S> guar da re . </V>
+<V> él la <S> si <S> va , <S> sen ten to si <S> lau da re , </V>
+<V> be ni gna mén te <S> d'u mil tà <S> ve stu ta ; </V>
+<V> e <S> par <S> ché <S> sì a <S> ù na <S> cò sa <S> ve nù ta </V>
+<V> da <S> ciè lo~in <S> tèr ra~a <S> mi ra col <S> mo stra re . </V>
+<V> mo stra si <S> sì <S> pia cèn te~a <S> chi <S> la <S> mi ra , </V>
+<V> ché <S> dà <S> per <S> li <S> òc chi <S> ù na <S> dol céz za~al <S> co re , </V>
+<V> ché <S> 'n ten der <S> no <S> la <S> può <S> chi <S> no <S> la <S> pro va : </V>
+<V> e <S> par <S> ché <S> de <S> la <S> S . U . A . <S> làb bia <S> si <S> mo va </V>
+<V> un <S> spì ri to <S> so à ve <S> pien <S> d'a mo re , </V>
+<V> ché <S> va <S> di cen do~a <S> l'a ni ma : <S> so spi ra . </V>
+<V> ve de <S> per fet ta mén te <S> òn ne <S> sa lù te </V>
+<V> chi <S> la <S> mì a <S> dòn na <S> tra <S> le <S> don ne <S> ve de ; </V>
+<V> quel le <S> ché <S> vàn no <S> cón <S> lèi <S> sòn <S> te nu te </V>
+<V> di <S> bèl la <S> grà zia~a <S> Dì o <S> ren der <S> mer ze de . </V>
+<V> e <S> S . U . A . <S> biel ta te <S> è <S> di <S> tàn ta <S> ver tu te , </V>
+<V> ché <S> nùl la~in vì dia~a <S> l'al tre <S> ne <S> pro ce de , </V>
+<V> àn zi <S> le <S> fà ce~an dar <S> sé co <S> ve stu te </V>
+<V> di <S> gen ti lez za , <S> d'a mo re~e <S> di <S> fe de . </V>
+<V> la <S> vì sta <S> S . U . A . <S> fa <S> òn ne <S> cò sa~u mi le ; </V>
+<V> e <S> nón <S> fa <S> sò la <S> sé <S> pa rer <S> pia cen te , </V>
+<V> ma <S> cia scu na <S> per <S> lèi <S> ri ce ve~o no re . </V>
+<V> ed <S> è <S> ne <S> li~at ti <S> suo i <S> tàn to <S> gen ti le , </V>
+<V> ché <S> nes sun <S> la <S> si <S> può <S> re cà re~a <S> men te , </V>
+<V> ché <S> nón <S> so spi ri~in <S> dol céz za <S> d'a mo re . </V>
+<V> sì <S> lun gia men te <S> m'ha <S> te nù to~a mó re </V>
+<V> e <S> co stu mà to~a <S> la <S> S . U . A . <S> se gno ria , </V>
+<V> ché <S> sì <S> com'el li <S> m'e ra <S> fòr te~in <S> pria , </V>
+<V> co sì <S> mi <S> sta <S> so à ve <S> ó ra <S> nél <S> co re . </V>
+<V> pe rò <S> quàn do <S> mi <S> tol le <S> sì <S> 'l <S> va lo re , </V>
+<V> ché <S> li <S> spi ri ti <S> par <S> ché <S> fug gan <S> via , </V>
+<V> al lór <S> sen te <S> la <S> frà le <S> à ni ma <S> mì a </V>
+<V> tàn ta <S> dol cez za , <S> ché <S> 'l <S> vì so <S> ne <S> smo re , </V>
+<V> pòi <S> pren de~a mó re~in <S> me <S> tàn ta <S> ver tu te , </V>
+<V> ché <S> fa <S> li <S> mie i <S> spi ri ti <S> gir <S> par lan do , </V>
+<V> ed <S> e scon <S> FOR <S> chia man do </V>
+<V> la <S> dòn na <S> mia , <S> per <S> dar mi <S> più <S> sa lu te , </V>
+<V> qué sto <S> m'av ve ne~o vùn que <S> él la <S> mi <S> ve de , </V>
+<V> e <S> sì <S> è <S> cò sa~u mi l , <S> ché <S> nól <S> si <S> cre de . </V>
+<V> li <S> òc chi <S> do len ti <S> per <S> pie tà <S> dél <S> cò re </V>
+<V> han no <S> di <S> la gri mar <S> sof fer ta <S> pe na , </V>
+<V> sì <S> ché <S> per <S> vin ti <S> sòn <S> re ma si~o mai . </V>
+<V> o ra , <S> s'i' <S> vo glio <S> sfo gar <S> lo <S> do lo re , </V>
+<V> ché <S> a <S> pò co~a <S> pò co~a <S> la <S> mòr te <S> mi <S> me na , </V>
+<V> con ve ne mi <S> pa rlar <S> tra en do <S> guai . </V>
+<V> e <S> per ché <S> me <S> ri cor da <S> ch'io <S> pa rla i </V>
+<V> de <S> la <S> mì a <S> don na , <S> mén tre <S> ché <S> vi via , </V>
+<V> don ne <S> gen ti li , <S> vo len tier <S> cón <S> vui , </V>
+<V> nón <S> vo i <S> par là re~al trui , </V>
+<V> se <S> nón <S> a <S> cor <S> gen til <S> ché <S> in <S> dòn na <S> sia ; </V>
+<V> e <S> di ce rò <S> di <S> lèi <S> pian gen do , <S> pui </V>
+<V> ché <S> si <S> n'è <S> gì ta~in <S> ciel <S> su bi ta men te , </V>
+<V> e <S> ha <S> la scià to~a mor <S> mé co <S> do len te . </V>
+<V> ì ta <S> n'è <S> be a trì ce~in <S> l'al to <S> cie lo , </V>
+<V> nél <S> re à me <S> ó ve <S> li~an ge li <S> han no <S> pa ce , </V>
+<V> e <S> sta <S> cón <S> lo ro , <S> e <S> voi , <S> don ne , <S> ha <S> las sa te : </V>
+<V> no <S> la <S> ci <S> tol se <S> qua li tà <S> di <S> gè lo </V>
+<V> né <S> di <S> ca lo re , <S> có me <S> l'al tre <S> fa ce , </V>
+<V> ma <S> só lo <S> fue <S> S . U . A . <S> gràn <S> be ni gni ta te ; </V>
+<V> ché <S> lù ce <S> de <S> la <S> S . U . A . <S> u mi li tà te </V>
+<V> pas sò <S> li <S> cie li <S> cón <S> tàn ta <S> ver tu te , </V>
+<V> ché <S> fé <S> ma ra vi gliar <S> l'et ter no <S> si re , </V>
+<V> si <S> ché <S> dól ce <S> di sì re </V>
+<V> lo <S> giun se <S> di <S> chia mar <S> tàn ta <S> sa lu te ; </V>
+<V> e <S> fel là <S> di <S> qua <S> giù <S> a <S> sé <S> ve ni re , </V>
+<V> per ché <S> ve de a <S> ch'e sta <S> vì ta <S> no io sa </V>
+<V> nón <S> è ra <S> de gna <S> di <S> sì <S> gen til <S> co sa . </V>
+<V> par tis si <S> de <S> la <S> S . U . A . <S> bèl la <S> per só na </V>
+<V> piè na <S> di <S> grà zia <S> l'a ni ma <S> gen ti le , </V>
+<V> ed <S> ès si <S> glo rió sa~in <S> lò co <S> de gno . </V>
+<V> chi <S> no <S> la <S> pian ge , <S> quàn do <S> ne <S> ra gio na , </V>
+<V> cò re <S> ha <S> di <S> piè tra <S> sì <S> mal và gio~e <S> vi le , </V>
+<V> ch'en trar <S> no~i <S> puo te <S> spì ri to <S> be ne gno . </V>
+<V> nón <S> è <S> di <S> cor <S> vil lan <S> sì <S> àl to~in ge gno , </V>
+<V> ché <S> pòs sa~i ma gi nar <S> di <S> lèi~al quan to , </V>
+<V> e <S> pe rò <S> no <S> li <S> ven <S> di <S> pian ger <S> do glia : </V>
+<V> ma <S> ven <S> tri stì zia~e <S> vò glia </V>
+<V> di <S> so spi rà re~e <S> di <S> mo rir <S> di <S> pian to , </V>
+<V> e <S> d'on ne <S> con so lar <S> l'a ni ma <S> spò glia </V>
+<V> chi <S> ve de <S> nél <S> pen sè ro~al cu na <S> vòl ta </V>
+<V> quà le <S> él la <S> fue , <S> e <S> com'el la <S> n'è <S> tol ta . </V>
+<V> dan no mi~an gò scia <S> li <S> so spi ri <S> for te , </V>
+<V> quàn do <S> 'l <S> pen sè ro <S> ne <S> la <S> mén te <S> grà ve </V>
+<V> mi <S> re ca <S> quel la <S> ché <S> m'ha <S> 'l <S> cor <S> di vi so : </V>
+<V> e <S> spes se <S> fia te <S> pen san do~a <S> la <S> mor te , </V>
+<V> ve ne me ne~un <S> di sì o <S> tàn to <S> soa ve , </V>
+<V> ché <S> mi <S> tra mù ta <S> lo <S> co lor <S> nél <S> vi so . </V>
+<V> e <S> quàn do <S> 'l <S> ma gi nar <S> mi <S> ven <S> bèn <S> fi so , </V>
+<V> giu gne mi <S> tàn ta <S> pé na <S> d'o gne <S> par te , </V>
+<V> ch'io <S> mi <S> ri scuo to <S> per <S> do lor <S> ch'i' <S> sen to ; </V>
+<V> e <S> sì <S> fàt to <S> di ven to , </V>
+<V> ché <S> da <S> le <S> gen ti <S> ver go gna <S> mi <S> par te . </V>
+<V> pò scia <S> pian gen do , <S> sòl <S> nél <S> mì o <S> la mén to </V>
+<V> chià mo <S> bea tri ce , <S> e <S> di co : <S> " or <S> se' <S> tu <S> mor ta ? " ; </V>
+<V> e <S> mén tre <S> ch'io <S> la <S> chia mo , <S> me <S> con for ta . </V>
+<V> pian ger <S> di <S> dò glia~e <S> so spi rar <S> d'an go scia </V>
+<V> mi <S> strug ge <S> 'l <S> cò re~o vùn que <S> sòl <S> mi <S> tro vo , </V>
+<V> si <S> ché <S> ne <S> 'n cre sce reb be~a <S> chi <S> m'au des se : </V>
+<V> e <S> quà le <S> è <S> sta ta <S> la <S> mì a <S> vi ta , <S> pò scia </V>
+<V> ché <S> la <S> mì a <S> dòn na~an dò <S> nél <S> se col <S> no vo , </V>
+<V> lìn gua <S> nón <S> è <S> ché <S> di cer <S> lo <S> sa pes se : </V>
+<V> e <S> pe rò , <S> don ne <S> mie , <S> pur <S> ch'io <S> vo les se , </V>
+<V> nón <S> vi <S> sa pre i~io <S> dir <S> bèn <S> quél <S> ch'io <S> so no , </V>
+<V> sì <S> mi <S> fa <S> tra va gliar <S> l'a cer ba <S> vi ta ; </V>
+<V> la <S> quà le <S> è <S> sì <S> 'n vi li ta , </V>
+<V> ché <S> ogn'om <S> par <S> ché <S> mi <S> di ca : <S> " io <S> t'ab ban do no " , </V>
+<V> veg gen do <S> la <S> mì a <S> làb bia <S> tra mor ti ta . </V>
+<V> ma <S> qual <S> ch'io <S> sì a <S> la <S> mì a <S> dòn na~il <S> si <S> ve de , </V>
+<V> e~io <S> ne <S> spe ro~an cor <S> da <S> lèi <S> mer ze de . </V>
+<V> pie to sa <S> mì a <S> can zo ne , <S> or <S> va <S> pian gen do ; </V>
+<V> e <S> ri truo va <S> le <S> don ne~e <S> le <S> don zel le </V>
+<V> a <S> cùi <S> le <S> tue <S> so rel le </V>
+<V> e ra no~u sa te <S> di <S> por tar <S> le ti zia ; </V>
+<V> e <S> tu , <S> ché <S> se' <S> fi gliuo la <S> di <S> tri sti zia , </V>
+<V> vat ten <S> di scon so la ta~a <S> star <S> cón <S> el le . </V>
+<V> ve nì te~a~in ten der <S> li <S> so spi ri <S> miei , </V>
+<V> oi <S> cor <S> gen ti li , <S> ché <S> pie tà <S> 'l <S> di sia : </V>
+<V> li <S> quai <S> di scon so la ti <S> vàn no <S> via , </V>
+<V> e <S> s'e' <S> nón <S> fos se r , <S> di <S> do lor <S> mor rei ; </V>
+<V> pe rò <S> ché <S> li <S> òc chi <S> mi <S> sa reb ber <S> rei , </V>
+<V> mol te <S> fia te <S> più <S> ch'io <S> nón <S> vor ria , </V>
+<V> las so ! , <S> di <S> pian ger <S> sì <S> la <S> dòn na <S> mia , </V>
+<V> ché <S> sfo gas ser <S> lo <S> co r , <S> pian gen do <S> lei . </V>
+<V> vo i~u di re te <S> LOR <S> chia mar <S> so vèn te </V>
+<V> la <S> mì a <S> dòn na <S> gen ti l , <S> ché <S> si <S> n'è <S> gì ta </V>
+<V> al <S> se col <S> dé gno <S> de <S> la <S> S . U . A . <S> ver tu te ; </V>
+<V> e <S> di spre giar <S> ta ló ra <S> qué sta <S> vì ta </V>
+<V> in <S> per só na <S> de <S> l'a ni ma <S> do lèn te </V>
+<V> ab ban do na ta <S> de <S> la <S> S . U . A . <S> sa lu te . </V>
+<V> quan tùn que <S> vol te , <S> las so ! , <S> mi <S> ri mem bra </V>
+<V> ch'io <S> nón <S> deb bo <S> già <S> mài </V>
+<V> ve der <S> la <S> dòn na~ond'io <S> vo <S> sì <S> do len te , </V>
+<V> tàn to <S> do ló re~in tór no <S> 'l <S> cor <S> m'as sem bra </V>
+<V> la <S> do lo ro sa <S> men te , </V>
+<V> ch'io <S> di co : <S> " a ni ma <S> mia , <S> ché <S> nón <S> ten <S> vai ? </V>
+<V> ché <S> li <S> tor men ti <S> ché <S> tu <S> por te ra i </V>
+<V> nél <S> se co l , <S> ché <S> t'è <S> già <S> tàn to <S> no io so , </V>
+<V> mi <S> fan <S> pen só so <S> di <S> pa ù ra <S> for te " . </V>
+<V> ond'io <S> chià mo <S> la <S> mor te , </V>
+<V> có me <S> so à ve~e <S> dól ce <S> mì o <S> ri po so ; </V>
+<V> e <S> dì co <S> " vie ni~a <S> me " <S> cón <S> tàn to~a mo re , </V>
+<V> ché <S> sò no~a stió so <S> di <S> chi ùn que <S> mo re . </V>
+<V> e' <S> si <S> rac co glie <S> ne <S> li <S> mie i <S> so spi ri </V>
+<V> un <S> sò no <S> di <S> pie ta te , </V>
+<V> ché <S> va <S> chia man do <S> mòr te <S> tut ta via : </V>
+<V> a <S> lèi <S> si <S> vol ser <S> tùt ti~i <S> mie i <S> di si ri , </V>
+<V> quàn do <S> la <S> dòn na <S> mì a </V>
+<V> fu <S> giùn ta <S> da <S> la <S> S . U . A . <S> cru te li ta te ; </V>
+<V> per ché <S> 'l <S> pia cé re <S> de <S> la <S> S . U . A . <S> biel ta te , </V>
+<V> par ten do <S> sé <S> da <S> la <S> no stra <S> ve du ta , </V>
+<V> di ven ne <S> spi ri tal <S> bel léz za <S> gran de , </V>
+<V> ché <S> per <S> lo <S> ciè lo <S> span de </V>
+<V> lù ce <S> d'a mo r , <S> ché <S> li~an ge li <S> sa lu ta , </V>
+<V> e <S> lo~in tel lèt to <S> ló ro~al to , <S> sot tì le </V>
+<V> fà ce <S> ma ra vi glia r , <S> sì <S> v'è <S> gen ti le . </V>
+<V> prì mo <S> co min cia mén to </V>
+<V> è ra <S> ve nù ta <S> ne <S> la <S> mén te <S> mì a </V>
+<V> la <S> gen til <S> dòn na <S> ché <S> per <S> sù o <S> va ló re </V>
+<V> fu <S> pò sta <S> da <S> l'al tis si mo <S> si gnó re </V>
+<V> nél <S> ciel <S> de <S> l'u mil ta te , <S> ov'è <S> ma ria . </V>
+<V> se cón do <S> co min cia mén to </V>
+<V> è ra <S> ve nù ta <S> ne <S> la <S> mén te <S> mì a </V>
+<V> quel la <S> dòn na <S> gen til <S> cùi <S> pian ge~a mo re , </V>
+<V> én tro <S> 'n <S> quél <S> pùn to <S> ché <S> lo <S> sù o <S> va ló re </V>
+<V> vi <S> tras se~a <S> ri guar dar <S> quél <S> ch'eo <S> fa cia . </V>
+<V> a mo r , <S> ché <S> ne <S> la <S> mén te <S> la <S> sen tia , </V>
+<V> s'e ra <S> sve glià to <S> nél <S> de strùt to <S> co re , </V>
+<V> e <S> di ce va~a' <S> so spi ri : <S> " an da te <S> fo re " ; </V>
+<V> per <S> ché <S> cia scun <S> do lèn te <S> si <S> par tia . </V>
+<V> pian gen do~u sci van <S> FOR <S> de <S> lo <S> mì o <S> pèt to </V>
+<V> cón <S> ù na <S> vó ce <S> ché <S> so vèn te <S> me na </V>
+<V> le <S> la gri me <S> do glio se~a <S> li <S> òc chi <S> tri sti </V>
+<V> ma <S> quéi <S> ché <S> n'u scian <S> FOR <S> cón <S> mag gior <S> pe na , </V>
+<V> ve nian <S> di cen do : <S> " oi <S> nò bi le~in tel let to , </V>
+<V> òg gi <S> fa <S> l'an no <S> ché <S> nél <S> ciel <S> sa li sti " . </V>
+<V> vi de ro <S> li <S> òc chi <S> mie i <S> quan ta <S> pie tà te </V>
+<V> è ra~ap pa rì ta~in <S> la <S> vo stra <S> fi gù ra </V>
+<V> quàn do <S> guar da ste <S> li~at ti~e <S> la <S> sta tù ra </V>
+<V> ch'io <S> fac cio <S> per <S> do lor <S> mol te <S> fia te . </V>
+<V> al lór <S> m'ac cor si <S> ché <S> vo i <S> pen sa va te </V>
+<V> la <S> qua li tà <S> de <S> la <S> mì a <S> vì ta~oscu ra , </V>
+<V> sì <S> ché <S> mi <S> giun se <S> ne <S> lo <S> cor <S> pa ù ra </V>
+<V> di <S> di mo strar <S> cón <S> li <S> òc chi <S> mì a <S> vil ta te . </V>
+<V> e <S> tol si mi <S> di nàn zi~a <S> voi , <S> sen ten do </V>
+<V> ché <S> si <S> mo ve an <S> le <S> la gri me <S> dal <S> co re , </V>
+<V> ch'e ra <S> som mòs so <S> da <S> la <S> vo stra <S> vi sta . </V>
+<V> io <S> di ce a <S> pò scia <S> ne <S> l'a ni ma <S> tri sta : </V>
+<V> " ben <S> è <S> cón <S> quel la <S> dòn na <S> quél lo~a mó re </V>
+<V> lo <S> qual <S> mi <S> fà ce~an dar <S> co sì <S> pian gen do " . </V>
+<V> co lor <S> d'a mo re~e <S> di <S> pie tà <S> sem bian ti </V>
+<V> nón <S> pre ser <S> mài <S> co sì <S> mi ra bil mén te </V>
+<V> vì so <S> di <S> don na , <S> per <S> ve der <S> so vèn te </V>
+<V> òc chi <S> gen ti li~o <S> do lo ro si <S> pian ti , </V>
+<V> có me <S> lo <S> vo stro , <S> qua ló ra <S> da vàn ti </V>
+<V> ve de te vi <S> la <S> mì a <S> làb bia <S> do len te ; </V>
+<V> sì <S> ché <S> per <S> vo i <S> mi <S> ven <S> cò sa~a <S> la <S> men te , </V>
+<V> ch'io <S> tè mo <S> fòr te <S> nón <S> lo <S> cor <S> si <S> schian ti . </V>
+<V> eo <S> nón <S> pos so <S> te ner <S> li <S> òc chi <S> di strut ti </V>
+<V> ché <S> nón <S> re guar din <S> vo i <S> spes se <S> fia te , </V>
+<V> per <S> de si dè rio <S> di <S> pian ger <S> ch'el li <S> han no : </V>
+<V> e <S> vo i <S> cre sce te <S> sì <S> LOR <S> vo lon ta te , </V>
+<V> ché <S> de <S> la <S> vò glia <S> si <S> con su man <S> tut ti ; </V>
+<V> ma <S> la gri mar <S> di nàn zi~a <S> vo i <S> nón <S> san no . </V>
+<V> l'a ma ro <S> la gri mar <S> ché <S> vo i <S> fa ce ste , </V>
+<V> oi <S> òc chi <S> miei , <S> co sì <S> lùn ga <S> sta gió ne </V>
+<V> fa ce a <S> la gri mar <S> l'al tre <S> per so ne </V>
+<V> de <S> la <S> pie ta te , <S> có me <S> vo i <S> ve de ste . </V>
+<V> ó ra <S> mi <S> par <S> ché <S> vo i <S> l'o blie re ste , </V>
+<V> s'io <S> fòs se <S> dal <S> mì o <S> là to <S> sì <S> fel lo ne , </V>
+<V> ch'i' <S> nón <S> ven <S> di stur bas se~o gne <S> ca gio ne , </V>
+<V> mem bran do vi <S> co lèi <S> cùi <S> vo i <S> pian ge ste . </V>
+<V> la <S> vo stra <S> va ni tà <S> mi <S> fa <S> pen sa re , </V>
+<V> e <S> spa ven ta mi <S> sì , <S> ch'io <S> tè mo <S> fòr te </V>
+<V> dél <S> vì so <S> d'u na <S> dòn na <S> ché <S> vi <S> mi ra . </V>
+<V> vo i <S> nón <S> do vre ste <S> mai , <S> se <S> nón <S> per <S> mor te , </V>
+<V> la <S> vo stra <S> don na , <S> ch'è <S> mor ta , <S> oblia re . </V>
+<V> co sl <S> di ce <S> 'l <S> mè o <S> co re , <S> e <S> pòi <S> so spi ra . </V>
+<V> gen til <S> pen sè ro <S> ché <S> pa rla <S> di <S> vùi </V>
+<V> sén <S> ve ne~a <S> di mo rar <S> mé co <S> so ven te , </V>
+<V> e <S> ra gio na <S> d'a mor <S> sì <S> dol ce men te , </V>
+<V> ché <S> fà ce <S> con sen tir <S> lo <S> cò re~in <S> lui . </V>
+<V> l'a ni ma <S> di ce~al <S> co r : <S> " chi <S> è <S> co stui , </V>
+<V> ché <S> ve ne~a <S> con so lar <S> la <S> no stra <S> men te , </V>
+<V> ed <S> è <S> la <S> S . U . A . <S> ver tù <S> tàn to <S> pos sen te , </V>
+<V> ch'al tro <S> pen ser <S> nón <S> la scia <S> star <S> cón <S> nui ? " . </V>
+<V> ei <S> le <S> ri spon de : <S> " oi <S> à ni ma <S> pen so sa , </V>
+<V> qué sti <S> è <S> ù no <S> spi ri tel <S> nò vo <S> d'a mo re , </V>
+<V> ché <S> re ca~in nàn zi <S> me <S> li <S> suo i <S> de si ri ; </V>
+<V> e <S> la <S> S . U . A . <S> vi ta , <S> e <S> tùt to <S> 'l <S> sù o <S> va lo re , </V>
+<V> mos se <S> de <S> li <S> òc chi <S> di <S> quel la <S> pie to sa </V>
+<V> ché <S> si <S> tur ba va <S> de' <S> no stri <S> mar tì ri " . </V>
+<V> las so ! <S> per <S> fòr za <S> di <S> mól ti <S> so spi ri , </V>
+<V> ché <S> na scon <S> de' <S> pen ser <S> ché <S> sòn <S> nél <S> co re , </V>
+<V> li <S> òc chi <S> sòn <S> vin ti , <S> e <S> nón <S> han no <S> va ló re </V>
+<V> di <S> ri guar dar <S> per só na <S> ché <S> li <S> mi ri . </V>
+<V> e <S> fat ti <S> sòn <S> ché <S> pa ion <S> dù e <S> di si ri </V>
+<V> di <S> la gri mà re~e <S> di <S> mo strar <S> do lo re , </V>
+<V> e <S> spes se <S> vol te <S> pian gon <S> sì , <S> ch'a mo re </V>
+<V> li <S> 'n cer chia <S> di <S> co ró na <S> di <S> mar tì ri . </V>
+<V> qué sti <S> pen se ri , <S> e <S> li <S> so spir <S> ch'eo <S> git to , </V>
+<V> di ven tan <S> ne <S> lo <S> cor <S> sì <S> an go scio si , </V>
+<V> ch'a mor <S> vi <S> tra mor ti sce , <S> sì <S> lien <S> do le ; </V>
+<V> pe rò <S> ch'el li <S> han no~in <S> LOR <S> li <S> do lo ro si </V>
+<V> quél <S> dól ce <S> nó me <S> di <S> ma dòn na <S> scrit to , </V>
+<V> e <S> de <S> la <S> mòr te <S> S . U . A . <S> mol te <S> pa ro le . </V>
+<V> dèh <S> pe re gri ni <S> ché <S> pen so si~an da te , </V>
+<V> fór se <S> di <S> cò sa <S> ché <S> nón <S> v'è <S> pre sen te , </V>
+<V> ve nì te <S> vo i <S> da <S> sì <S> lon ta na <S> gen te , </V>
+<V> com' <S> a <S> la <S> vì sta <S> vo i <S> ne <S> di mo stra te , </V>
+<V> ché <S> nón <S> pian ge te <S> quàn do <S> vo i <S> pas sa te </V>
+<V> per <S> lo <S> sù o <S> mèz zo <S> la <S> cit tà <S> do len te , </V>
+<V> có me <S> quel le <S> per so ne <S> ché <S> ne èn te </V>
+<V> par <S> ché <S> 'n ten des ser <S> la <S> S . U . A . <S> gra vi ta te ? </V>
+<V> se <S> vo i <S> re sta ste <S> per <S> vo le rlo~au di re , </V>
+<V> cèr to <S> lo <S> cor <S> de' <S> so spi ri <S> mi <S> di ce </V>
+<V> ché <S> la gri man do <S> n'u sci re ste <S> pui . </V>
+<V> el l'ha <S> per du ta <S> la <S> S . U . A . <S> bea tri ce ; </V>
+<V> e <S> le <S> pa ro le <S> ch'om <S> di <S> lèi <S> pò <S> dì re </V>
+<V> han no <S> ver tù <S> di <S> far <S> piàn ge re~al trui . </V>
+<V> ól tre <S> la <S> spè ra <S> ché <S> più <S> làr ga <S> gì ra </V>
+<V> pàs sa <S> 'l <S> so spì ro <S> ch'e sce <S> dél <S> mì o <S> co re : </V>
+<V> in tel li gèn za <S> no va , <S> ché <S> l'a mo re </V>
+<V> pian gen do <S> met te~in <S> lui , <S> pur <S> su <S> lo <S> ti ra . </V>
+<V> quand'el li <S> è <S> giùn to <S> là <S> dó ve <S> di si ra , </V>
+<V> ve de <S> ù na <S> don na , <S> ché <S> ri ce ve~o no re , </V>
+<V> e <S> lù ce <S> sì , <S> ché <S> per <S> lo <S> sù o <S> splen dó re </V>
+<V> lo <S> pe re grì no <S> spì ri to <S> la <S> mi ra . </V>
+<V> ve de la <S> ta l , <S> ché <S> quàn do <S> 'l <S> mi <S> ri di ce , </V>
+<V> io <S> no <S> lo~in ten do , <S> sì <S> pa rla <S> sot tì le </V>
+<V> al <S> cor <S> do len te , <S> ché <S> lo <S> fa <S> par la re . </V>
+<V> so~io <S> ché <S> pa rla <S> di <S> quel la <S> gen ti le , </V>
+<V> pe rò <S> ché <S> spés so <S> ri cor da <S> bea tri ce , </V>
+<V> sì <S> ch'io <S> lo <S> 'n ten do <S> be n , <S> don ne <S> mie <S> ca re . </V>
