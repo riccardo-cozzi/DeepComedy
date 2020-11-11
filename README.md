@@ -18,15 +18,21 @@ intervention.
 
   
   *E io vidi con le genti in novelle*
+  
   *più alto poco dir per la vista corte*
+  
   *rivolge a la cagion che non favelle.*
 
   *ma dimmi quei che pace a te forte,*
+  
   *se troppa luce, che la gente nota,*
+  
   *rimembrar dal fatto hai mano inforte!.*
 
   *ed ella: io di onde qui rinota,*
+  
   *rispuos'io lui, ti giova prìa ch'i' tolsi*
+  
   *come mano a costui fu sì commota.*
 
 # Consult our notebooks
